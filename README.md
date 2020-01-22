@@ -35,4 +35,4 @@ A full stack list-making/agile scrum board application inspired by Trello.
 3. Start server
 > rails server -b 0.0.0.0 -p 3000
 4. Open the index.html file
-5. Create some lists!
+5. Create some lists
