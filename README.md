@@ -4,7 +4,7 @@
 
 This app is split into the [front end](https://github.com/R-Currie/mello) and [back end](https://github.com/R-Currie/mello-backend)
 
-A full stack list-making/agile scrum board application inspired by Trello.
+A full stack list-making/agile Scrum board application inspired by Trello.
 
 ### Demo
 ![Mello Demo](https://i.imgur.com/VRCtRoQ.gif)
